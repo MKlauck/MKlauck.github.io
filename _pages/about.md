@@ -1,49 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I am Michaela, a research engineer at [Bosch Corporate Research](https://www.bosch.com/research/) (Robert Bosch GmbH) in Renningen, close to Stuttgart. 
+I joined Bosch Research in January 2023. My focus lies in verification of planning and decision making in autonomous systems. I am working on model-checking robotic deliberation and autonomous driving behavior. Therefore, I am associated with the robotics and autonomous driving portfolios at Bosch Research.
+From having worked with different kinds of models and state-of-the-art planning and verification tools, I have a broad and solid knowledge of model-driven engineering methods. Given my passion for cutting-edge research, I love to advance innovative verification methods for automated planning and decision making of highly autonomous systems.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Since January 2024, I am the activity lead of an internal project in the robotics portfolio, where I am responsible for the project and personnel management, as well as for the technical focus and implementation of the project goals.
+In addition, I am the PI of the associated EU Horizon project [CONVINCE](https://convince-project.eu/), where our focus lies on model-checking robotic deliberation to achieve robust robot behavior using statistical model checking, situation understanding, and learning (used tooling, formats: JANI, Storm, Prism, temporal logics, ROS 2).
+I am supervising PhD students, e.g., working on formally verifying behavior trees, Master's thesis students, etc.
+Furthermore, I am quite active in the internal and external presentation of and communication for the project.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In the autonomous driving portfolio I was working on formally verifying a behavior planner with the help of model checking in nuXmv. Learn more about this project in the [Bosch Research Blog](https://www.bosch.com/stories/safe-automated-driving/). The corresponding TACAS paper was honored with the Distinguished Artifact Award.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My intrinsic motivation always pushed new ideas forward and my proactive working style opened doors for fruitful collaborations with other scientists all over the world. I deeply enjoy working together in strong teams with complementary skills. Many of my papers have been developed in teams of researchers from different backgrounds.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+From November 2017 to December 2022, I have been a research associate at the chair of Prof. Dr.-Ing. Holger Hermanns at the [Dependable Systems and Software Group](https://depend.cs.uni-saarland.de/) at Saarland University. There, I have been working in the area of quantitative verification and Markov decision processes, especially at the interface of these topics to automatic planning and the AI community. In June 2022, I successfully defended my PhD (Dr.-Ing.) thesis entitled "On the Connection of Probabilistic Model Checking, Planning, and Learning for System Verification".  The main contributions of my thesis are (1) a novel quantitative verification approach, called Modysh, based on automated probabilistic planning methods implemented in a state-of-the-art model checker, (2) a lightweight verification technique for neural network decision making agents, called Deep Statistical Model Checking (DSMC), mainly evaluated on an abstract autonomous driving benchmark designed by me, as well as (3) the design of models and benchmarks usable for evaluation and testing purposes in the model checking, verification, and planning communities.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I worked with state-of-the-art probabilistic model checking and planning tools & formats (The Modest Toolset, Prism, Storm, JANI, FastDownward, (P)PDDL), designed properties in temporal logics, and developed new verification techniques for Markov decision processes (MDPs) of cyber-physical systems. In addition, I was in charge of the implementation of algorithms in state-of-the-art probabilistic model checking tools (The Modest Toolset, Momba).
 
-**Markdown generator**
+I studied Computer Science at Saarland University where I received my Master’s degree (honor’s degree, Günter-Hotz-Medal) in March 2018 and my Bachelor’s degree in July 2016.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+If you are interested in my work, explore the other tabs or feel free to contact me.
