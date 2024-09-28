@@ -1,14 +1,21 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Talks & Teaching"
 author_profile: true
 redirect_from: 
   - /teaching.html
 ---
 
+## Invited Talks & Lectures
+
+|2024 | Dagstuhl Seminar 24361 'Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy'. Invited 1-hour tutorial  on 'Formal Methods & AI in Robotics & Autonomous Systems Engineering @ Bosch: CONVINCE-ing Robust Robot Deliberation and More'. |
+|2024 | ACM SIGSOFT Summer School for Software Engineering in Robotics 2024, Brussels, Belgium. Member of the core organizing team of the summer school and lecturer of a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation. |
+| 2024 | European Robotics Forum (ERF), Rimini. Workshop 'Safe Adaptation for Log-term Autonomy in Human Robot Interaction', co-organized by the CONVINCE project. |
+| 2023 | International Conference on Robotics and Automation (ICRA), London. Invited speaker in the Second Workshop on Quality and Reliability Assessment of Robotic Software Architectures and Components. |
+
+
 ## Lectures
 
-|2024 | ACM SIGSOFT Summer School for Software Engineering in Robotics 2024, Brussels, Belgium, Member of the core organizing team of the summer school and lecturer of a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation|
 |2022 |	Teaching Assistant, Nebenläufige Programmierung, Saarland University|
 |2021 |	Supportive Teaching Assistant, Nebenläufige Programmierung, Saarland University|
 |2020 |	Background helper for Mathematics Precourse, Saarland University|
