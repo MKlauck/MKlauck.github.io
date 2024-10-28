@@ -31,6 +31,8 @@ redirect_from:
 
 ## Theses Supervision
 
+I am currently supervising the PhD Thesis of Matteo Palmas and the Master's thesis of Geetansh Saxena at Bosch Research in the CONVINCE project. 
+
 In addition, I was involved in the supervision of Marcel Vinzent’s Bachelor’s thesis “Dead-End Pattern Databases in PRISM” and his research immersion lab “Implementing FRET/LRTDP in an explicit-state engine for JANI”, as well as in Govinda Sicheneder’s Master’s thesis “Time-bound Latency for Bluetooth Low Energy and Isochronous Channels in a Time-Critical Bicycle Application”.
 
 ## Mathematics Precourse of Computer Science 
