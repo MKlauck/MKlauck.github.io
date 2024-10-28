@@ -10,7 +10,8 @@ redirect_from:
 In the collaborative Research Center 248 -- Foundations of Perspicuous Software Systems, funded by the German Research Foundation (DFG), I was the PhD representative on the CPEC Board from May 2020 to December 2022. My main tasks were the conception and organization of measures for the promotion of young scientists. Read more about it [here](/projects/).
 
 ## Reviewing -- Conferences
-* QEST: International Conference on Quantitative Evaluation of Systems, member of the program committee, 2023.
+* ICCPS: ACM/IEEE International Conference on Cyber-Physical Systems, **member of the program committee**, 2025.
+* QEST: International Conference on Quantitative Evaluation of Systems, **member of the program committee**, 2023.
 * ISoLA: International Symposium On Leveraging Applications of Formal Methods, Verification and Validation, 2022
 * MEMOCODE: International Conference on Formal Methods and Models for System Design, 2021.
 * TACAS: International Conference on Tools and Algorithms for the Construction and Analysis of Systems, 2017--2022.
