@@ -21,7 +21,7 @@ repository               : "MKlauck/MKlauck.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KlauckMichaela.jpg"
+  avatar           : "KlauckMichaela_hf.jpg"
   name             : "Practical Formal Verification"
   pronouns         : # example: "she/her"  
   bio              : "Research Engineer @ Bosch Research -- Verification of Planning and Decision Making in Autonomous Systems."

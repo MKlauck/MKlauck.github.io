@@ -12,7 +12,7 @@ In the collaborative Research Center 248 -- Foundations of Perspicuous Software 
 ## Reviewing -- Conferences
 * ICCPS: ACM/IEEE International Conference on Cyber-Physical Systems, **member of the program committee**, 2025.
 * QEST: International Conference on Quantitative Evaluation of Systems, **member of the program committee**, 2023.
-* ISoLA: International Symposium On Leveraging Applications of Formal Methods, Verification and Validation, 2022
+* ISoLA: International Symposium On Leveraging Applications of Formal Methods, Verification and Validation, 2022.
 * MEMOCODE: International Conference on Formal Methods and Models for System Design, 2021.
 * TACAS: International Conference on Tools and Algorithms for the Construction and Analysis of Systems, 2017--2022.
 
