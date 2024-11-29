@@ -6,6 +6,9 @@ redirect_from:
   - /academic-service.html
 ---
 
+## Member of the ELLIS Society e.V.
+I am a member of [ELLIS](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems, which is a pan-European AI network of excellence. It builds upon machine learning as the driver for modern AI and aims to secure lasting international leadership of AI made in Europe by connecting top researchers in this field and by creating a multi-centric AI research laboratory.
+
 ## PhD Representative Center for Perspicuous Computing (CPEC)
 In the collaborative Research Center 248 -- Foundations of Perspicuous Software Systems, funded by the German Research Foundation (DFG), I was the PhD representative on the CPEC Board from May 2020 to December 2022. My main tasks were the conception and organization of measures for the promotion of young scientists. Read more about it [here](/projects/).
 
