@@ -9,14 +9,14 @@ redirect_from:
 
 Hi, I am Michaela, a **research engineer** at [Bosch Corporate Research](https://www.bosch.com/research/) (Robert Bosch GmbH) in Renningen, close to Stuttgart. 
 I joined Bosch Research in January 2023. My focus lies in **verification of planning and decision making in autonomous systems**. I am working on **model-checking robotic deliberation and autonomous driving behavior**. Therefore, I am associated with the robotics and autonomous driving portfolios at Bosch Research.
-From having worked with different kinds of models and state-of-the-art planning and verification tools, I have a broad and solid knowledge of **model-driven engineering methods**. Given my passion for cutting-edge research, I love to advance innovative verification methods for automated planning and decision making of highly autonomous systems.
+From having worked with different model types and state-of-the-art planning and verification tools, I have a broad and solid knowledge of **model-driven engineering methods**. Given my passion for cutting-edge research, I love to advance innovative **verification methods** for automated planning and decision making of highly autonomous systems.
 
 Since January 2024, I am the **activity lead** of an internal project in the robotics portfolio, where I am responsible for the project and personnel management, as well as for the technical focus and implementation of the project goals.
-In addition, I am the **PI of the EU Horizon project [CONVINCE](https://convince-project.eu/)**, where our focus lies on model-checking robotic deliberation to achieve robust robot behavior using statistical model checking, situation understanding, and learning (used tooling, formats: JANI, Storm, Prism, temporal logics, ROS 2).
+In addition, I am a **PI of the EU Horizon project [CONVINCE](https://convince-project.eu/)**, where our focus lies on model-checking robotic deliberation to achieve **robust robot behavior** using statistical model checking, situation understanding, and learning (used tooling & formats: JANI, Storm, Prism, temporal logics, ROS 2).
 I am supervising PhD students, e.g., working on formally verifying behavior trees, Master's thesis students, etc.
 Furthermore, I am quite active in the internal and external presentation of and communication for the project.
 
-In the autonomous driving portfolio I was working on formally verifying a behavior planner with the help of model checking in nuXmv. Learn more about this project in the [Bosch Research Blog](https://www.bosch.com/stories/safe-automated-driving/). The corresponding TACAS paper was honored with the Distinguished Artifact Award.
+In the autonomous driving portfolio I was working on **formally verifying a behavior planner of an autonomous car** with the help of model checking in nuXmv. Learn more about this project in the [Bosch Research Blog](https://www.bosch.com/stories/safe-automated-driving/). The corresponding TACAS paper was honored with the Distinguished Artifact Award.
 
 My intrinsic motivation always pushed new ideas forward and my proactive working style opened doors for fruitful collaborations with other scientists all over the world. I deeply enjoy working together in strong teams with complementary skills. Many of my papers have been developed in teams of researchers from different backgrounds.
 

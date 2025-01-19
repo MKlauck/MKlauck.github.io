@@ -8,7 +8,7 @@ redirect_from:
 
 ## Invited Talks & Lectures
 
-|2024 | **Dagstuhl Seminar** 25441 'Competitions and Empirical Evaluations in Automated Reasoning'. |
+|2025 | **Dagstuhl Seminar** 25441 'Competitions and Empirical Evaluations in Automated Reasoning'. |
 |2025 | ACM SIGSOFT **Summer School for Software Engineering in Robotics** 2025, Delft, The Netherlands. Member of the core organizing team of the summer school and lecturer of a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation. |
 | 2025 | **International Conference on Robotics and Automation** (ICRA), Atlanta, GA. Invited speaker in the Fourth Workshop on Quality and Reliability Assessment of Robotic Software Architectures and Components. |
 |2024 | **Dagstuhl Seminar** 24361 'Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy'. Invited 1-hour tutorial  on 'Formal Methods & AI in Robotics & Autonomous Systems Engineering @ Bosch: CONVINCE-ing Robust Robot Deliberation and More'. |

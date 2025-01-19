@@ -8,10 +8,10 @@ redirect_from:
 
 ## CONVINCE -- Context Aware Verifiable Dynamic Deliberation
 
-[CONVINCE](https://convince-project.eu/) is a project funded by the European Union Horizon Europe Programme (Grant Agreement N. 101070227) of which I am the **PI from Bosch Research** side. The main contribution of the project is to develop and verify **cognitive deliberation capabilities that ensure robust robot operation** over extended periods of time without human intervention and integrate these capabilities into a model-driven software toolchain for robot developers.
-The goal is to advance the state of the art in situation understanding and scene perception, task and motion planning in dynamic environments, design-time and runtime verification, and integrate all these capabilities in an **open source software toolchain**.
+[CONVINCE](https://convince-project.eu/) is a project funded by the European Union Horizon Europe Program (Grant Agreement N. 101070227) of which I am the **PI from Bosch Research** side. The main contribution of the project is to develop and verify **cognitive deliberation capabilities that ensure robust robot operation** over extended periods of time without human intervention and integrate these capabilities into a model-driven software toolbox for robot developers.
+The goal is to advance the state of the art in situation understanding and scene perception, task and motion planning in dynamic environments, design-time and runtime verification, and integrate all these capabilities in an **open source software toolbox**.
 
-I am mostly involved in **bridging the gap between model checking and robotics tooling** to achieve our goals regarding design-time verification. I am supervising a PhD and several Master's thesis students within the project. In addition, I am leading Work Package 5 on the **toolchain integration** trying to connect the methods and tools developed in the different topic groups of the project. Apart from that, I am very active in the project management and dissemination activities.
+I am mostly involved in **bridging the gap between model checking and robotics tooling** to achieve our goals regarding design-time verification. I am supervising a PhD and several Master's thesis students within the project. In addition, I am leading Work Package 5 on the **toolbox integration** trying to connect the methods and tools developed in the different topic groups of the project. Apart from that, I am very active in the project management and dissemination activities.
 
 Related to the EU-funded project, I am **leading a Bosch Research internal project** on similar topics for Bosch use cases. 
 
