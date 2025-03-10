@@ -9,6 +9,9 @@ redirect_from:
 ## Member of the ELLIS Society e.V.
 I am a member of [ELLIS](https://ellis.eu/), the European Laboratory for Learning and Intelligent Systems, which is a pan-European AI network of excellence. It builds upon machine learning as the driver for modern AI and aims to secure lasting international leadership of AI made in Europe by connecting top researchers in this field and by creating a multi-centric AI research laboratory.
 
+## Member of the External Advisory Board of the CoreSense EU Horizon Project
+Since February 2025 I am a member of the External Advisory Board of the EU Horizon project [CoreSense}(https://coresense.eu/). The CoreSense project aims to develop a theory of understanding and awareness for autonomous robots, which will be implemented as a reference architecture and engineering toolbox. This theory and technology will be used in building autonomous robots with increased capabilities to work without/with limited supervision and improved intuitive, safe and efficient cognitive, social, and physical capabilities. The project also aims to create an open-source community in the ROS ecosystem around the software developed in the project. The core of the project is the development of a hybrid cognitive architecture that uses knowledge as the core substrate for its operation and is self-aware, trustworthy, model-centric and value-oriented.
+
 ## PhD Representative Center for Perspicuous Computing (CPEC)
 In the collaborative Research Center 248 -- Foundations of Perspicuous Software Systems, funded by the German Research Foundation (DFG), I was the PhD representative on the CPEC Board from May 2020 to December 2022. My main tasks were the conception and organization of measures for the promotion of young scientists. Read more about it [here](/projects/).
 

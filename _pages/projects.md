@@ -15,6 +15,8 @@ I am mostly involved in **bridging the gap between model checking and robotics t
 
 Related to the EU-funded project, I am **leading a Bosch Research internal project** on similar topics for Bosch use cases. 
 
+In addition, I am a member of the External Advisory Board of the [CoreSense](https://coresense.eu/) EU Horizon project, the sister project of CONVINCE in the EU Horizon initiative. Read more about it [here](/academic-service/).
+
 
 
 ## Center for Perspicuous Systems (CPEC)
