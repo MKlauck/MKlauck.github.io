@@ -39,9 +39,8 @@ I am currently supervising the PhD Thesis of Matteo Palmas and the Master's thes
 In addition, I was involved in the supervision of Marcel Vinzent’s Bachelor’s thesis “Dead-End Pattern Databases in PRISM” and his research immersion lab “Implementing FRET/LRTDP in an explicit-state engine for JANI”, as well as in Govinda Sicheneder’s Master’s thesis “Time-bound Latency for Bluetooth Low Energy and Isochronous Channels in a Time-Critical Bicycle Application”.
 
 ## ACM SIGSOFT Summer School for Software Engineering in Robotics
-Member of the core organizing team of the summer school from 4th to 8th June 2024 in Brussels. More information can be found on the [school's webpage](https://www.scivenia.com/en/event/summer-school-for-software-engineering-in-robotics_993/). This involved acquisition of ACM SIGSOFT funding.
-Funding for a second iteration in 2025 was just granted. 
-In both years I am part of the team responsible for the full organization of the event, incl. venue location, food, social activities, etc. 
+I am a member of the core organizing team of the summer school from 4th to 8th June 2024 in Brussels, Belgium and of the second iteration from 30th of June to 4th of July in Delft, The Netherlands. More information can be found on the [school's webpage](https://www.scivenia.com/en/event/summer-school-for-software-engineering-in-robotics_993/). This involved acquisition of ACM SIGSOFT funding in two individual iterations for both years. 
+In both years I am part of the team responsible for the full organization of the event, incl. venue location, food, social activities, financial matters, etc. 
 In addition, I give a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation.
 
 ## Mathematics Precourse of Computer Science 
