@@ -8,7 +8,6 @@ redirect_from:
 
 ## Invited Talks & Lectures
 
-|2025 | **Dagstuhl Seminar** 25441 'Competitions and Empirical Evaluations in Automated Reasoning'. |
 |2025 | ACM SIGSOFT **Summer School for Software Engineering in Robotics** 2025, Delft, The Netherlands. Member of the core organizing team of the summer school and lecturer of a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation. |
 | 2025 | **International Conference on Robotics and Automation** (ICRA), Atlanta, GA. Invited speaker in the Fourth Workshop on Quality and Reliability Assessment of Robotic Software Architectures and Components. |
 |2024 | **Dagstuhl Seminar** 24361 'Artificial Intelligence and Formal Methods Join Forces for Reliable Autonomy'. Invited 1-hour tutorial  on 'Formal Methods & AI in Robotics & Autonomous Systems Engineering @ Bosch: CONVINCE-ing Robust Robot Deliberation and More'. |
@@ -34,14 +33,14 @@ redirect_from:
 
 ## Theses Supervision
 
-I am currently supervising the PhD Thesis of Matteo Palmas and the Master's thesis of Geetansh Saxena at Bosch Research in the CONVINCE project. 
+I am currently supervising the PhD Thesis of Matteo Palmas and was supervising the Master's thesis of Geetansh Saxena and Moustafa Elbery at Bosch Research in the CONVINCE project. 
 
 In addition, I was involved in the supervision of Marcel Vinzent’s Bachelor’s thesis “Dead-End Pattern Databases in PRISM” and his research immersion lab “Implementing FRET/LRTDP in an explicit-state engine for JANI”, as well as in Govinda Sicheneder’s Master’s thesis “Time-bound Latency for Bluetooth Low Energy and Isochronous Channels in a Time-Critical Bicycle Application”.
 
 ## ACM SIGSOFT Summer School for Software Engineering in Robotics
-I am a member of the core organizing team of the summer school from 4th to 8th June 2024 in Brussels, Belgium and of the second iteration from 30th of June to 4th of July in Delft, The Netherlands. More information can be found on the [school's webpage](https://www.scivenia.com/en/event/summer-school-for-software-engineering-in-robotics_993/). This involved acquisition of ACM SIGSOFT funding in two individual iterations for both years. 
-In both years I am part of the team responsible for the full organization of the event, incl. venue location, food, social activities, financial matters, etc. 
-In addition, I give a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation.
+I was a member of the core organizing team of the summer school from 4th to 8th June 2024 in Brussels, Belgium and of the second iteration from 30th of June to 4th of July in Delft, The Netherlands. More information can be found on the [school's webpage](https://www.scivenia.com/en/event/summer-school-for-software-engineering-in-robotics_993/). My tasks involved acquisition of ACM SIGSOFT funding in two individual iterations for both years. 
+In both years I was part of the team responsible for the full organization of the event, incl. venue location, food, social activities, financial matters, etc. 
+In addition, I gave a full day fundamental lecture on verification, formal methods in general, and model checking for robust robot deliberation, including practial hands-on sessions using state-of-the-art model checkers on robotic use cases.
 
 ## Mathematics Precourse of Computer Science 
 

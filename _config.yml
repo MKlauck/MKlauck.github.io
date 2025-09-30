@@ -22,14 +22,14 @@ repository               : "MKlauck/MKlauck.github.io"
 author:
   # Biographic information
   avatar           : "KlauckMichaela_hf.jpg"
-  name             : "Practical Formal Verification"
+  name             : "Systems & Requirements Engineer & Practical Formal Verification"
   pronouns         : # example: "she/her"  
-  bio              : "Research Engineer @ Bosch Research -- Verification of Planning and Decision Making in Autonomous Systems."
-  location         : "Renningen, Greater Stuttgart Area"
-  employer         : "Bosch Corporate Research"
+  bio              : "Systems & Requirements Engineer @ Rohde & Schwarz, before: Research Engineer @ Bosch Research -- Verification of Planning and Decision Making in Autonomous Systems."
+  location         : "Munich"
+  employer         : "Rohde & Schwarz GmbH & Co KG"
   uri              : # URL
   pemail            : "klauck.science@gmail.com" 
-  bemail            : "michaela.klauck@de.bosch.com"
+  bemail            : "michaela.klauck@rohde-schwarz.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

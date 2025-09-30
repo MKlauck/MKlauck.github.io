@@ -8,12 +8,12 @@ redirect_from:
 
 ## CONVINCE -- Context Aware Verifiable Dynamic Deliberation
 
-[CONVINCE](https://convince-project.eu/) is a project funded by the European Union Horizon Europe Program (Grant Agreement N. 101070227) of which I am the **PI from Bosch Research** side. The main contribution of the project is to develop and verify **cognitive deliberation capabilities that ensure robust robot operation** over extended periods of time without human intervention and integrate these capabilities into a model-driven software toolbox for robot developers.
+[CONVINCE](https://convince-project.eu/) is a project funded by the European Union Horizon Europe Program (Grant Agreement N. 101070227) of which I was the **PI from Bosch Research** side. The main contribution of the project is to develop and verify **cognitive deliberation capabilities that ensure robust robot operation** over extended periods of time without human intervention and integrate these capabilities into a model-driven software toolbox for robot developers.
 The goal is to advance the state of the art in situation understanding and scene perception, task and motion planning in dynamic environments, design-time and runtime verification, and integrate all these capabilities in an **open source software toolbox**.
 
-I am mostly involved in **bridging the gap between model checking and robotics tooling** to achieve our goals regarding design-time verification. I am supervising a PhD and several Master's thesis students within the project. In addition, I am leading Work Package 5 on the **toolbox integration** trying to connect the methods and tools developed in the different topic groups of the project. Apart from that, I am very active in the project management and dissemination activities.
+I was mostly involved in **bridging the gap between model checking and robotics tooling** to achieve our goals regarding design-time verification. I was supervising a PhD and several Master's thesis students within the project. In addition, I was leading Work Package 5 on the **toolbox integration** trying to connect the methods and tools developed in the different topic groups of the project. Apart from that, I was very active in the project management and dissemination activities.
 
-Related to the EU-funded project, I am **leading a Bosch Research internal project** on similar topics for Bosch use cases. 
+Related to the EU-funded project, I was **leading a Bosch Research internal project** on similar topics for Bosch use cases. 
 
 In addition, I am a member of the External Advisory Board of the [CoreSense](https://coresense.eu/) EU Horizon project, the sister project of CONVINCE in the EU Horizon initiative. Read more about it [here](/academic-service/).
 
