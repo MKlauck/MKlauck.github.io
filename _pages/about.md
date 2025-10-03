@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Michaela, a Development Engineer for System Software focusing on **systems & requirements engineer** at [Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/uk/) in Munich, where I started in October 2025. I am working on various customer projects in the company's portfolio, analyzing customer's requirements and technical feasibility.
+Hi, I am Michaela, a Development Engineer for System Software focusing on **systems & requirements engineering** at [Rohde & Schwarz GmbH & Co. KG](https://www.rohde-schwarz.com/uk/) in Munich, where I started in October 2025. I am working on various customer projects in the company's portfolio, analyzing customer's requirements and technical feasibility.
 
 Previously, I worked as a **research engineer** at [Bosch Corporate Research](https://www.bosch.com/research/) (Robert Bosch GmbH) in Renningen, close to Stuttgart. 
 I joined Bosch Research in January 2023 and focused on **verification of planning and decision making in autonomous systems**. I was working on **model-checking robotic deliberation and autonomous driving behavior**. and thus associated with the robotics and autonomous driving portfolios at Bosch Research.
